@@ -1,0 +1,9 @@
+title: FASTER
+arrange:
+    - FASTER.md
+    - FASTER@QuickStart.md
+    - FASTER@Policies.md
+    - FASTER@Intro.md
+    - FASTER@Access.md
+    - FASTER@Filesystems_and_Files.md
+    - FASTER@Batch.md

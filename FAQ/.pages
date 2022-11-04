@@ -1,0 +1,7 @@
+tittle: FAQ
+arrange:
+    - HPRC@CommonProblems@Accounts.md
+    - HPRC@CommonProblems@Software.md
+    - HPRC@CommonProblems@TerraBatchProcessing.md
+    - HPRC@CommonProblems@Other.md
+    
